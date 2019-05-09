@@ -1,4 +1,4 @@
 #!/bin/bash
 # stoping apache
-rm -rf /var/www/html/*
-service httpd stop
+sudo rm -rf /var/www/html/*
+sudo service httpd stop
