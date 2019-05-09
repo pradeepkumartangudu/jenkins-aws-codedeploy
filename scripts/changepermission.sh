@@ -1,3 +1,3 @@
 #!/bin/bash 
 #  apache config .
-chown apache:apache -R /var/www/html
+sudo chmod 777 /var/www/html
